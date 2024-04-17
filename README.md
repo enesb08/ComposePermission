@@ -134,7 +134,11 @@ fun Sample2() {
 3. **GIF:**
 
 <p align="start">
- <img src="assets/SpannableText.gif" width="40%"/>
+ <img src="assets/gif_1.gif" width="40%"/>
+</p>
+
+<p align="start">
+ <img src="assets/gif_2.gif" width="40%"/>
 </p>
 
 <div align="start"> <h2 align="start">License</h1> </div>
