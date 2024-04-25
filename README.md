@@ -35,7 +35,7 @@ ComposePermission , Android uygulamaları için [Jetpack Compose Permissions](ht
 }
   
   ```
-1. **Kullanım Örnekleri:**
+2. **Kullanım Örnekleri:**
  -  Sample:1
 ```kotlin
 @Composable
